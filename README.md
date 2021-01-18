@@ -1,2 +1,2 @@
-# rfm_abc_xyz_analysis
-RFM, ABC, XYZ Customer Analysis
+# RFM, ABC, and XYZ Customer Analysis
+Simple functions for RFM, ABC, and XYZ customer analysis
